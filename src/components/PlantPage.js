@@ -7,7 +7,7 @@ function PlantPage({plantsList, setPlantsList,baseURL}) {
   return (
     <main>
       <NewPlantForm setPlantsList={setPlantsList} baseURL={baseURL}/>
-      <Search />
+      <Search plantsList={plantsList}/>
       <PlantList plantsList={plantsList}/>
     </main>
   );
