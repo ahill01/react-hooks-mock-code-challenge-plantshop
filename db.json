@@ -59,6 +59,12 @@
       "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elle.com%2Fuk%2Flife-and-culture%2Fg37179160%2Findoor-plants%2F&psig=AOvVaw2ILmyod2IC8OWuzgSQOSJE&ust=1648046361809000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCND70qD52fYCFQAAAAAdAAAAABAL",
       "price": "2.6",
       "id": 10
+    },
+    {
+      "name": "PrettyPlant",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/house-plants-1629187361.jpg?crop=1.00xw:1.00xh;0,0&resize=980:*",
+      "price": "1.25",
+      "id": 11
     }
   ]
 }
