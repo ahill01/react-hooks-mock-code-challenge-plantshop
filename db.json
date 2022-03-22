@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "new plant",
+      "image": "https://www.https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elle.com%2Fuk%2Flife-and-culture%2Fg37179160%2Findoor-plants%2F&psig=AOvVaw2ILmyod2IC8OWuzgSQOSJE&ust=1648046361809000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCND70qD52fYCFQAAAAAdAAAAABAgoogle.com/url?sa=i&url=https%3A%2F%2Fwww.esquire.com%2Flifestyle%2Fg37975993%2Fbest-indoor-plants%2F&psig=AOvVaw2ILmyod2IC8OWuzgSQOSJE&ust=1648046361809000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCND70qD52fYCFQAAAAAdAAAAABAF",
+      "price": "2.57",
+      "id": 8
+    },
+    {
+      "name": "new plant",
+      "image": "https://www.https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elle.com%2Fuk%2Flife-and-culture%2Fg37179160%2Findoor-plants%2F&psig=AOvVaw2ILmyod2IC8OWuzgSQOSJE&ust=1648046361809000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCND70qD52fYCFQAAAAAdAAAAABAgoogle.com/url?sa=i&url=https%3A%2F%2Fwww.esquire.com%2Flifestyle%2Fg37975993%2Fbest-indoor-plants%2F&psig=AOvVaw2ILmyod2IC8OWuzgSQOSJE&ust=1648046361809000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCND70qD52fYCFQAAAAAdAAAAABAF",
+      "price": "2.57",
+      "id": 9
+    },
+    {
+      "name": "newPlant",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elle.com%2Fuk%2Flife-and-culture%2Fg37179160%2Findoor-plants%2F&psig=AOvVaw2ILmyod2IC8OWuzgSQOSJE&ust=1648046361809000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCND70qD52fYCFQAAAAAdAAAAABAL",
+      "price": "2.6",
+      "id": 10
     }
   ]
 }

@@ -18,7 +18,7 @@ fetch(baseURL)
   return (
     <div className="app">
       <Header />
-      <PlantPage plantsList={plantsList}/>
+      <PlantPage plantsList={plantsList} setPlantsList ={setPlantsList} baseURL={baseURL}/>
     </div>
   );
 }
